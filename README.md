@@ -1,4 +1,4 @@
-#Actividad Individual
+# Actividad Individual
 
     Crear un repositorio llamado: quiz-2-analisis-sistemas.
     Elaborar un documento en Word detallando el paso a paso realizado para alcanzar el resultado final.
